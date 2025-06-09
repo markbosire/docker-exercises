@@ -1,6 +1,6 @@
 # 🐳 Docker Mastery — 50 Hands-On Exercises
 
-A practical journey through Docker’s core and advanced concepts. Each folder contains a focused exercise to build your container skills with real-world scenarios.
+This is my personal documentation of the git 50 day Challenge that I completed to master through hands-on practice. Working through these transformed my understanding from theory to real-world Git implementation.
 
 ---
 
@@ -21,7 +21,7 @@ A practical journey through Docker’s core and advanced concepts. Each folder c
 - [Tag and push images to Docker Hub or private registries](/images/push-tag/)
 - [Use `.dockerignore` files to speed up builds](/images/dockerignore/)
 - [Analyze image layers and size with `docker history`](/images/image-layers/)
-- [Automate image builds using Docker BuildKit](/images/buildkit/)
+- [Understanding Docker BuildKit](/images/buildkit/)
 - [Understand caching behavior in Docker builds](/images/build-cache/)
 
 ---
