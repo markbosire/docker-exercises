@@ -1,6 +1,6 @@
 # 🐳 Docker Mastery — 50 Hands-On Exercises
 
-This is my personal documentation of the git 50 day Challenge that I completed to master through hands-on practice. Working through these transformed my understanding from theory to real-world Git implementation.
+This is my personal documentation of the docker 50 day Challenge that I completed to master through hands-on practice. Working through these transformed my understanding from theory to real-world docker implementation.
 
 ---
 
